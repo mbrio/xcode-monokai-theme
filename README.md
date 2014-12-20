@@ -10,7 +10,7 @@ You'll need to first get a hold of Adobe's Source Code Pro font, download and
 installation instructions can be found on it's
 [website](https://github.com/adobe-fonts/source-code-pro/).
 
-Then the Xcode themes need to be copied into the following directory:
+Then the Xcode theme needs to be copied into the following directory:
 
 ```
 $ cp Monokai.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
